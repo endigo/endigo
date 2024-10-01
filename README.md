@@ -9,4 +9,6 @@
 
 Hi, I'm Tsogt! 👋
 
-I'm currently pursuing a Master's degree at Curtin University and I'm looking for a full-stack developer job
+I'm currently pursuing a Master's degree at Curtin University  
+and  
+I'm looking for a full-stack developer job
